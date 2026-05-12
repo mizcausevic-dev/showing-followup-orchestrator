@@ -1,0 +1,81 @@
+{
+  "brokerage": "Northstar Residential Group",
+  "market": "Greater Boston",
+  "showings": [
+    {
+      "showing_id": "shw-7001",
+      "buyer_name": "Alyssa Hart",
+      "listing_title": "Sunny Inman Square Condo with Private Roof Deck",
+      "city": "Cambridge",
+      "agent_name": "Emma Rivera",
+      "hours_since_showing": 6,
+      "interest_signal": 91,
+      "price_fit": 88,
+      "asked_for_disclosures": true,
+      "asked_for_second_showing": true,
+      "financing_ready": true,
+      "objection_count": 1,
+      "preferred_channel": "sms"
+    },
+    {
+      "showing_id": "shw-7002",
+      "buyer_name": "Jae Min Park",
+      "listing_title": "Back Bay Investment Triplex near Newbury Street",
+      "city": "Boston",
+      "agent_name": "Marcus Lee",
+      "hours_since_showing": 11,
+      "interest_signal": 84,
+      "price_fit": 81,
+      "asked_for_disclosures": true,
+      "asked_for_second_showing": false,
+      "financing_ready": true,
+      "objection_count": 2,
+      "preferred_channel": "email"
+    },
+    {
+      "showing_id": "shw-7003",
+      "buyer_name": "Miguel Santos",
+      "listing_title": "Quincy Harbor Starter Home with Flexible Lower Level",
+      "city": "Quincy",
+      "agent_name": "Daniel Ortiz",
+      "hours_since_showing": 20,
+      "interest_signal": 72,
+      "price_fit": 76,
+      "asked_for_disclosures": false,
+      "asked_for_second_showing": false,
+      "financing_ready": false,
+      "objection_count": 3,
+      "preferred_channel": "phone"
+    },
+    {
+      "showing_id": "shw-7004",
+      "buyer_name": "Neha Kapoor",
+      "listing_title": "Newton Center Colonial with Office and Garden Studio",
+      "city": "Newton",
+      "agent_name": "Priya Nair",
+      "hours_since_showing": 4,
+      "interest_signal": 94,
+      "price_fit": 92,
+      "asked_for_disclosures": true,
+      "asked_for_second_showing": true,
+      "financing_ready": true,
+      "objection_count": 0,
+      "preferred_channel": "sms"
+    },
+    {
+      "showing_id": "shw-7005",
+      "buyer_name": "Rachel Kim",
+      "listing_title": "Somerville Loft with Garage and Work-From-Home Nook",
+      "city": "Somerville",
+      "agent_name": "Emma Rivera",
+      "hours_since_showing": 28,
+      "interest_signal": 63,
+      "price_fit": 68,
+      "asked_for_disclosures": false,
+      "asked_for_second_showing": false,
+      "financing_ready": true,
+      "objection_count": 2,
+      "preferred_channel": "email"
+    }
+  ]
+}
