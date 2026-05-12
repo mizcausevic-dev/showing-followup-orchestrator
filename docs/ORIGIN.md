@@ -6,7 +6,7 @@ In this case the pressure showed up around lead-routing latency, listing discove
 
 That was the opening for **showing-followup-orchestrator**. The repo was designed around a simple idea: operators need more than visibility. They need evidence, priorities, and next actions that make sense under pressure. That is why the project is framed as real estate operations rather than as a generic app demo. The point is not just to show that data can be rendered or APIs can be wired together. The point is to show what a practical control surface looks like when the audience is brokerages, real-estate teams, and growth operators.
 
-Existing tools missed the mark for understandable reasons. The available tooling landscape â€” CRM suites, website plugins, and lightweight marketing tools â€” helped with record-keeping, scanning, reporting, or workflow coverage. What it still missed was an operating system that could connect discovery, routing, and follow-up discipline in one place. In other words, the gap was not capability in isolation. The gap was operational coherence. The team responsible for day-to-day decisions still had to reconstruct the story manually.
+The surrounding toolchain was never useless. CRM suites, website plugins, and lightweight marketing tools handled adjacent parts of the job reasonably well. The problem was that they still left out an operating system that could connect discovery, routing, and follow-up discipline in one place. That left operators stitching together evidence by hand right when the environment was least forgiving.
 
 That shaped the design philosophy from the start:
 
