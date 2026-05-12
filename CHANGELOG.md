@@ -12,7 +12,8 @@ This log is intentionally written as an engineering record rather than a launch 
 - Tightened the repo story around the real-world operating problem: lead-routing latency, listing discoverability gaps, and post-showing follow-up drift.
 
 ### Why this mattered
-- Existing approaches in CRM suites, website plugins, and lightweight marketing tools were useful, but they tracked activity, but did not translate buyer intent, discovery quality, and workload pressure into a clear operating system.
+- Existing approaches in CRM suites, website plugins, and lightweight marketing tools were useful for adjacent workflows.
+- They still missed the core need: an operating system that could connect discovery, routing, and follow-up discipline in one place.
 - This release made the repo readable as an operational capability rather than a narrow technical demo.
 
 ## [0.1.0] - 2026-01-21
