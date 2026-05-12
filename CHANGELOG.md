@@ -7,9 +7,9 @@ This log is intentionally written as an engineering record rather than a launch 
 ## [1.0.0] - 2026-05-12
 
 ### Released
-- Published \$name\ as a public, portfolio-grade real estate operations system.
+- Published **showing-followup-orchestrator** as a public, portfolio-grade real estate operations system.
 - Packaged the current implementation, documentation, validation workflow, and proof surfaces into a repo that could be reviewed by engineering, product, and operating stakeholders.
-- Tightened the repo story around the real-world operating problem: lead routing, listing discovery, and post-showing follow-up were still being handled through loosely coupled CRM habits.
+- Tightened the repo story around the real-world operating problem: lead-routing latency, listing discoverability gaps, and post-showing follow-up drift.
 
 ### Why this mattered
 - Existing approaches in CRM suites, website plugins, and lightweight marketing tools were useful, but they tracked activity, but did not translate buyer intent, discovery quality, and workload pressure into a clear operating system.
@@ -18,7 +18,7 @@ This log is intentionally written as an engineering record rather than a launch 
 ## [0.1.0] - 2026-01-21
 
 ### Shipped
-- Cut the first coherent internal version of the product shape behind \$name\.
+- Cut the first coherent internal version of the product shape behind **showing-followup-orchestrator**.
 - Standardized the core objects, decision surfaces, and operator outputs around the repo's main working problem.
 - Established the first reviewable version of the architecture described as: Real estate follow-up engine for post-showing sequencing, buyer-intent scoring, and agent reminder workflows.
 
@@ -55,12 +55,12 @@ This log is intentionally written as an engineering record rather than a launch 
 ## [Idea Origin] - 2023-01-16
 
 ### Observed
-- The initial idea surfaced while looking at how teams were handling lead routing, listing discovery, and post-showing follow-up were still being handled through loosely coupled CRM habits.
+- The initial idea surfaced while looking at how teams were handling lead-routing latency, listing discoverability gaps, and post-showing follow-up drift.
 - The recurring pattern was that people could often see fragments of the problem, but not the whole operational story in one place.
 
 ### Insight
 - The missing product was not another point solution. It was a clearer operating layer that made the work legible to brokerages, real-estate teams, and growth operators.
-- That insight became the basis for \$name\.
+- That insight became the basis for **showing-followup-orchestrator**.
 
 ## [Background Signals] - 2022-08-09
 
