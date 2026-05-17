@@ -26,7 +26,7 @@ Showing Follow-up Orchestrator is a real estate workflow engine for turning prop
 ## Local run
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\showing-followup-orchestrator"
+cd showing-followup-orchestrator
 py -3.11 -m venv .venv
 .\.venv\Scripts\pip.exe install -r requirements.txt
 .\.venv\Scripts\python.exe -m app.main
